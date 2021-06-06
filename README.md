@@ -1,6 +1,12 @@
 
 ## Hello, I'm <strong>Jorge</strong>! 👋
 
+- :office: &nbsp; I’m currently working on [Ioasys](https://ioasys.com.br/) as a Mobile Developer using React Native. 
+
+- :mortar_board: &nbsp; Graduating in Computer Engineering at [Universidade Federal de Sergipe](https://www.ufs.br/).
+
+- :books: &nbsp; I’m currently improving my [React Native](https://reactnative.dev/) and [Swift](https://swift.org/) skills.
+
 <br />
   
 <div>
@@ -13,7 +19,7 @@
 
 ### Languages and Tools:
   
-<a href="https://pt-br.reactjs.org/" target="_blank">
+<a href="https://reactnative.dev/" target="_blank">
   <img align="left" alt="React" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /></a>
 <a href="https://swift.org/" target="_blank">
   <img align="left" alt="Swift" width="26px" height="30px" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" /></a>
@@ -25,6 +31,8 @@
   <img align="left" alt="HTML5" width="28px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /></a>
 <a href="https://www.w3.org/html/" target="_blank">
   <img align="left" alt="CSS3" width="28px"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" /></a>
+<a href="https://nodejs.org/en/" target="_blank">
+  <img align="left" alt="NodeJs" width="26px" height="28px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></a>
 <a href="https://www.cprogramming.com/" target="_blank">
   <img align="left" alt="C" width="28px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
 <a href="https://www.java.com/pt-BR/" target="_blank">
