@@ -1,7 +1,7 @@
 
 ## Hello, I'm <strong>Jorge</strong>! 👋
 
-- :office: &nbsp; I’m currently working on [Ioasys](https://ioasys.com.br/) as a Mobile Developer using React Native. 
+- :office: &nbsp; I’m currently working at [Ioasys](https://ioasys.com.br/) as a Mobile Developer using React Native. 
 
 - :mortar_board: &nbsp; Graduating in Computer Engineering at [Universidade Federal de Sergipe](https://www.ufs.br/).
 
