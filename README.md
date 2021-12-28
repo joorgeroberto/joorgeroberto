@@ -5,7 +5,7 @@
 
 - :mortar_board: &nbsp; Graduating in Computer Engineering at [Universidade Federal de Sergipe](https://www.ufs.br/).
 
-- :books: &nbsp; I’m currently improving my [Swift](https://swift.org/), [React Native](https://reactnative.dev/) and [NodeJS](https://nodejs.org/)skills.
+- :books: &nbsp; I’m currently improving my [Swift](https://swift.org/), [React Native](https://reactnative.dev/) and [NodeJS](https://nodejs.org/) skills.
 
 <br />
   
