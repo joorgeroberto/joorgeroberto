@@ -1,11 +1,11 @@
 
 ## Hello, I'm <strong>Jorge</strong>! 👋
 
-- :office: &nbsp; I’m currently working at [Ioasys](https://ioasys.com.br/) as a Mobile Developer using React Native. 
+- :office: &nbsp; I’m currently working at [DTI](https://www.dtidigital.com.br) as a iOS Mobile Developer. 
 
 - :mortar_board: &nbsp; Graduating in Computer Engineering at [Universidade Federal de Sergipe](https://www.ufs.br/).
 
-- :books: &nbsp; I’m currently improving my [React Native](https://reactnative.dev/) and [Swift](https://swift.org/) skills.
+- :books: &nbsp; I’m currently improving my [Swift](https://swift.org/), [React Native](https://reactnative.dev/) and [NodeJS](https://nodejs.org/)skills.
 
 <br />
   
