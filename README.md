@@ -1,7 +1,7 @@
 
 ## Hello, I'm <strong>Jorge</strong>! 👋
 
-- :office: &nbsp; I’m currently working at [DTI](https://www.dtidigital.com.br) as a iOS Mobile Developer. 
+- :office: &nbsp; I’m currently working at [DTI](https://www.dtidigital.com.br) as a iOS Project Lead Developer. 
 
 - :mortar_board: &nbsp; Graduating in Computer Engineering at [Universidade Federal de Sergipe](https://www.ufs.br/).
 
